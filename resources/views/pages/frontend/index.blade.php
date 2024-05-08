@@ -6,7 +6,7 @@
             <div class="panel panel-body bg-white/90">
                 <div class="text-center">
                     <h1 class="text-2xl font-semibold text-gray-800 uppercase">Book your perfect family vacation</h1>
-                    <span class="text-muted">Search through our properties below - now</span>
+                    <span class="text-muted">Search through our properties below - now again</span>
                 </div>
                 <div class="flex flex-col gap-5">
                     <input type="text" name="" id="" class="text-center bg-white input" placeholder="Search the property name or location">
